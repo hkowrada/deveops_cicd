@@ -1,6 +1,6 @@
 # DevOps Project to demonstrate CI/CD 
 
-![Image](img.PNG)
+![Image](deveops_cicd/img.png)
 
 This Repository is a collection of Implementation documents. 
 
