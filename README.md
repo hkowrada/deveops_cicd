@@ -1,6 +1,6 @@
 # DevOps Project to demonstrate CI/CD 
 
-![Image](deveops_cicd/img.png)
+![Image](https://github.com/hkowrada/deveops_cicd/blob/main/img.png)
 
 This Repository is a collection of Implementation documents. 
 
